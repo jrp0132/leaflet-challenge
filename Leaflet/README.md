@@ -1,0 +1,1 @@
+This project visualizes earthquake data collected by the United States Geological Survey (USGS) using an interactive map built with Leaflet.js and D3.js. The application is designed to help users explore the magnitude, depth, and location of earthquakes around the world.
